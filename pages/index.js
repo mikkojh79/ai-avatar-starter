@@ -148,18 +148,7 @@ const Home = () => {
           </div>
         )}
       </div>
-      <div className="badge-container grow">
-        <a
-          href="https://buildspace.so/builds/ai-avatar"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <div className="badge">
-            <Image src={} alt="buildspace logo" />
-             <p></p>
-          </div>
-        </a>
-      </div>
+      
     </div>
   );
 };
