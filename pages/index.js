@@ -155,8 +155,8 @@ const Home = () => {
           rel="noreferrer"
         >
           <div className="badge">
-            <Image src={buildspaceLogo} alt="buildspace logo" />
-             <p>build with buildspace</p>
+            <Image src={} alt="buildspace logo" />
+             <p></p>
           </div>
         </a>
       </div>
